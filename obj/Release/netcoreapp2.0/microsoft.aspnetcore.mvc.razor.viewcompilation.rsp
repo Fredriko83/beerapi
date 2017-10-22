@@ -1,0 +1,5 @@
+/home/fredrik/code/net/beerAPI
+--output-path=obj/Release/netcoreapp2.0/
+--application-name=beerAPI
+--content-root=/home/fredrik/code/net/beerAPI
+--file=

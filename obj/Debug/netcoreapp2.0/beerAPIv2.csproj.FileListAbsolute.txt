@@ -1,0 +1,10 @@
+/home/fredrik/code/net/beerAPIv2/bin/Debug/netcoreapp2.0/beerAPIv2.deps.json
+/home/fredrik/code/net/beerAPIv2/bin/Debug/netcoreapp2.0/beerAPIv2.runtimeconfig.json
+/home/fredrik/code/net/beerAPIv2/bin/Debug/netcoreapp2.0/beerAPIv2.runtimeconfig.dev.json
+/home/fredrik/code/net/beerAPIv2/bin/Debug/netcoreapp2.0/beerAPIv2.dll
+/home/fredrik/code/net/beerAPIv2/bin/Debug/netcoreapp2.0/beerAPIv2.pdb
+/home/fredrik/code/net/beerAPIv2/obj/Debug/netcoreapp2.0/beerAPIv2.csproj.CoreCompileInputs.cache
+/home/fredrik/code/net/beerAPIv2/obj/Debug/netcoreapp2.0/beerAPIv2.AssemblyInfoInputs.cache
+/home/fredrik/code/net/beerAPIv2/obj/Debug/netcoreapp2.0/beerAPIv2.AssemblyInfo.cs
+/home/fredrik/code/net/beerAPIv2/obj/Debug/netcoreapp2.0/beerAPIv2.dll
+/home/fredrik/code/net/beerAPIv2/obj/Debug/netcoreapp2.0/beerAPIv2.pdb
